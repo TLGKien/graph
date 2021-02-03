@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T13:58:04.023Z" agent="5.0 (X11)" etag="h3GOzRsd2MDQUr9N1O3A" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T14:04:48.474Z" agent="5.0 (X11)" etag="x_mYO9YmnXns3dPWpqiv" version="14.2.9" type="github">
   <diagram id="GM21wBxc2DHTKVHeBlKp" name="Page-1">
     <mxGraphModel dx="1611" dy="913" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,10 +118,10 @@
         <mxCell id="rJRlgSTPhRBSyXRxf0p6-26" value="Nhận lớp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="476" y="598" width="120" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="rJRlgSTPhRBSyXRxf0p6-29" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="rJRlgSTPhRBSyXRxf0p6-29" value="BM3" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="403" y="243" width="28.8" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="rJRlgSTPhRBSyXRxf0p6-31" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="rJRlgSTPhRBSyXRxf0p6-31" value="BM2" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="275" y="243" width="28.8" height="37" as="geometry" />
         </mxCell>
         <mxCell id="rJRlgSTPhRBSyXRxf0p6-55" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="rJRlgSTPhRBSyXRxf0p6-57" value="TIẾP NHẬN HỌC SINH MỚI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="351" y="35" width="164" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="rJRlgSTPhRBSyXRxf0p6-58" value="BM4" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="639" y="557" width="28.8" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

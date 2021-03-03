@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T15:16:23.352Z" agent="5.0 (X11)" etag="zzC7_LFXzLVrPmCBTLUb" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T15:43:19.064Z" agent="5.0 (X11)" etag="_5Ec457uz2e9UQARObz3" version="14.4.3" type="github">
   <diagram id="1vEWWUkTscpkUTFqP1_E" name="Page-1">
     <mxGraphModel dx="1369" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -90,6 +90,19 @@
         </mxCell>
         <mxCell id="jQeJXfxP2YYo6J_EapRw-34" value="Lịch thi dự kiến" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jQeJXfxP2YYo6J_EapRw-33" vertex="1" connectable="0">
           <mxGeometry x="0.1113" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xYPPfnrnd1WW5xZQ7hfS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jQeJXfxP2YYo6J_EapRw-1" target="jQeJXfxP2YYo6J_EapRw-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="466" y="393" />
+              <mxPoint x="623" y="393" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xYPPfnrnd1WW5xZQ7hfS-4" value="Kết quả thi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xYPPfnrnd1WW5xZQ7hfS-3">
+          <mxGeometry x="-0.2338" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

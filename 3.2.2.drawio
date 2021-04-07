@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T17:34:53.631Z" agent="5.0 (X11)" etag="k-DRI7LyAB49DlVxgvir" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T17:37:43.645Z" agent="5.0 (X11)" etag="__5oCsltKpjtsFIgn2Eu" version="14.5.4" type="github">
   <diagram id="B0VGPlCqBH76h4DqBEp2" name="Page-1">
     <mxGraphModel dx="1369" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-1" value="HỌC SINH" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="131" y="393" width="160" height="266" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-2" value="Mã học sinh" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=0" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-1">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-2" value="Mã học sinh" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-3" value="Tên học sinh" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-1">
@@ -22,19 +22,19 @@
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-6" value="Khuyết tật" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-1">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-7" value="Mã lớp" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-1">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-8" value="Thành phần gia đình" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-1">
           <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-8" value="Thành phần gia đình" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-1">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-9" value="Dân tộc" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-1">
           <mxGeometry y="206" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-9" value="Dân tộc" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-1">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-7" value="Mã lớp" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=6" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-1">
           <mxGeometry y="236" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-10" value="GIÁO VIÊN" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="834" y="390" width="160" height="296" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-11" value="Mã giáo viên" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=0" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-10">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-11" value="Mã giáo viên" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-10">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-12" value="Tên giáo viên" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-10">
@@ -64,28 +64,28 @@
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-20" value="LỚP HỌC" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="497" y="380" width="160" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-21" value="Mã lớp học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=0" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-20">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-21" value="Mã lớp học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-20">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-22" value="Tên lớp học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-20">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-23" value="Mã GV chủ nhiệm" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-20">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-23" value="Mã GV chủ nhiệm" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=4" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-20">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-24" value="Môn học" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="510" y="903" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-25" value="Mã môn học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=0" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-24">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-25" value="Mã môn học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-24">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-26" value="Tên môn học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-24">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-45" value="LỊCH THI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="507" y="675" width="160" height="116" as="geometry" />
+          <mxGeometry x="507" y="675" width="160" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-46" value="Mã môn học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-45">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-46" value="Mã lịch thi" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-45">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-47" value="Địa điểm thi" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-45">
@@ -94,49 +94,52 @@
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-48" value="Thời gian" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-45">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-115" value="Mã môn học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=6" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-45">
+          <mxGeometry y="116" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-49" value="CHI TIẾT COI THI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="586" y="541" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-50" value="Mã Giáo viên" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-49">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-50" value="Mã Giáo viên" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-49">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-51" value="Mã lịch thi" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-49">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-51" value="Mã lịch thi" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-49">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-52" value="CHI TIẾT THI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="411" y="541" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-53" value="Mã học viên" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-52">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-53" value="Mã học viên" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-52">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-54" value="Mã lịch thi" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-52">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-54" value="Mã lịch thi" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-52">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-67" value=" ĐIỂM" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="126" y="903" width="160" height="176" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-105" value="Mã phiếu điểm" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-67">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-105" value="Mã phiếu điểm" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-67">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-68" value="Mã môn học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-67">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-69" value="Học kì" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-67">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-69" value="Học kì" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-67">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-70" value="Năm học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-67">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-70" value="Năm học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-67">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-68" value="Mã môn học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=6" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-67">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-71" value="Mã GV chấm" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-67">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-71" value="Mã GV chấm" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=6" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-67">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-72" value="CHI TIẾT ĐIỂM" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="126" y="713" width="160" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-73" value="Mã học sinh" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-72">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-73" value="Mã học sinh" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-72">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-104" value="Mã phiếu điểm" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-72">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-104" value="Mã phiếu điểm" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-72">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-74" value="Điểm" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-72">
@@ -148,7 +151,7 @@
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-82" value="KẾT QUẢ ĐÁNH GIÁ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="482" y="167" width="160" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-83" value="Mã phiếu đánh giá" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-82">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-83" value="Mã phiếu đánh giá" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-82">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-84" value="Năm học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-82">
@@ -157,16 +160,16 @@
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-85" value="Học kì" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-82">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-86" value="Mã giáo viên đánh giá" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-82">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-86" value="Mã giáo viên đánh giá" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=6" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-82">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-87" value="CHI TIẾT ĐÁNH GIÁ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="131" y="155" width="160" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-88" value="Mã học sinh" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-87">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-88" value="Mã học sinh" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-87">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-100" value="Mã Phiếu đánh giá" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-87">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-100" value="Mã Phiếu đánh giá" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-87">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-89" value="Năng lực" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-87">
@@ -212,7 +215,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-106" value="" style="fontSize=12;html=1;endArrow=ERmany;exitX=0.644;exitY=1.033;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="B4TFPBKWCkSjGvdhpC7C-19" target="B4TFPBKWCkSjGvdhpC7C-70">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-106" value="" style="fontSize=12;html=1;endArrow=ERmany;exitX=0.644;exitY=1.033;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="B4TFPBKWCkSjGvdhpC7C-19" target="B4TFPBKWCkSjGvdhpC7C-68">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="216" y="913" as="sourcePoint" />
             <mxPoint x="214.07999999999993" y="869" as="targetPoint" />
@@ -249,9 +252,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-111" value="" style="fontSize=12;html=1;endArrow=ERmany;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B4TFPBKWCkSjGvdhpC7C-7" target="B4TFPBKWCkSjGvdhpC7C-53">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-111" value="" style="fontSize=12;html=1;endArrow=ERmany;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="B4TFPBKWCkSjGvdhpC7C-53">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="507" y="461" as="sourcePoint" />
+            <mxPoint x="297" y="582" as="sourcePoint" />
             <mxPoint x="301.96000000000004" y="462" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>

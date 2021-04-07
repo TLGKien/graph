@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T17:34:10.408Z" agent="5.0 (X11)" etag="ZwfxSrizdH5cQvl3er2t" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T17:34:53.631Z" agent="5.0 (X11)" etag="k-DRI7LyAB49DlVxgvir" version="14.5.4" type="github">
   <diagram id="B0VGPlCqBH76h4DqBEp2" name="Page-1">
     <mxGraphModel dx="1369" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="#ffffff" math="0" shadow="0">
       <root>
@@ -97,16 +97,16 @@
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-49" value="CHI TIẾT COI THI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="586" y="541" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-50" value="Giáo viên coi thi&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-49">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-50" value="Mã Giáo viên" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-49">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-51" value="Giáo viên coi thi&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-49">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-51" value="Mã lịch thi" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-49">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-52" value="CHI TIẾT THI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="411" y="541" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-53" value="Tên học viên" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-52">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-53" value="Mã học viên" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-52">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-54" value="Mã lịch thi" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-52">

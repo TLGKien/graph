@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T09:08:29.825Z" agent="5.0 (X11)" etag="raQx1FFWNY6HLxUOK29Z" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T09:16:47.116Z" agent="5.0 (X11)" etag="zNEf6YL01xuLy4wnOxyF" version="14.5.10" type="github">
   <diagram id="B0VGPlCqBH76h4DqBEp2" name="Page-1">
     <mxGraphModel dx="1369" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="#ffffff" math="0" shadow="0">
       <root>
@@ -94,10 +94,10 @@
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-48" value="Thời gian" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="B4TFPBKWCkSjGvdhpC7C-45" vertex="1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-115" value="Mã GV coi thi" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=6" parent="B4TFPBKWCkSjGvdhpC7C-45" vertex="1">
+        <mxCell id="wmWTRLDOORURSyOH5cfe-3" value="Mã môn học" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="B4TFPBKWCkSjGvdhpC7C-45" vertex="1">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wmWTRLDOORURSyOH5cfe-3" value="Thời gian" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-45">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-115" value="Mã GV coi thi" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=6" parent="B4TFPBKWCkSjGvdhpC7C-45" vertex="1">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-52" value="CHI TIẾT THI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
@@ -109,7 +109,7 @@
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-54" value="Mã lịch thi" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=5" parent="B4TFPBKWCkSjGvdhpC7C-52" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wmWTRLDOORURSyOH5cfe-2" value="Ghi chú" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=0" vertex="1" parent="B4TFPBKWCkSjGvdhpC7C-52">
+        <mxCell id="wmWTRLDOORURSyOH5cfe-2" value="Ghi chú" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=0" parent="B4TFPBKWCkSjGvdhpC7C-52" vertex="1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B4TFPBKWCkSjGvdhpC7C-67" value=" ĐIỂM" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
@@ -228,7 +228,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-108" value="" style="fontSize=12;html=1;endArrow=ERmany;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.506;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="B4TFPBKWCkSjGvdhpC7C-24" target="wmWTRLDOORURSyOH5cfe-3" edge="1">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-108" value="" style="fontSize=12;html=1;endArrow=ERmany;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.506;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="B4TFPBKWCkSjGvdhpC7C-24" target="B4TFPBKWCkSjGvdhpC7C-115" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="515" y="1074" as="sourcePoint" />
             <mxPoint x="296" y="1074" as="targetPoint" />
@@ -249,7 +249,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B4TFPBKWCkSjGvdhpC7C-111" value="" style="fontSize=12;html=1;endArrow=ERmany;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="B4TFPBKWCkSjGvdhpC7C-54" edge="1" source="B4TFPBKWCkSjGvdhpC7C-8">
+        <mxCell id="B4TFPBKWCkSjGvdhpC7C-111" value="" style="fontSize=12;html=1;endArrow=ERmany;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="B4TFPBKWCkSjGvdhpC7C-8" target="B4TFPBKWCkSjGvdhpC7C-54" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="297" y="582" as="sourcePoint" />
             <mxPoint x="301.96000000000004" y="462" as="targetPoint" />
@@ -263,7 +263,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wmWTRLDOORURSyOH5cfe-1" value="" style="fontSize=12;html=1;endArrow=ERmany;entryX=1.013;entryY=0.9;entryDx=0;entryDy=0;exitX=0.113;exitY=1.133;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="B4TFPBKWCkSjGvdhpC7C-19" target="B4TFPBKWCkSjGvdhpC7C-47">
+        <mxCell id="wmWTRLDOORURSyOH5cfe-1" value="" style="fontSize=12;html=1;endArrow=ERmany;entryX=1.013;entryY=0.9;entryDx=0;entryDy=0;exitX=0.113;exitY=1.133;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="B4TFPBKWCkSjGvdhpC7C-19" target="B4TFPBKWCkSjGvdhpC7C-47" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="307" y="592" as="sourcePoint" />
             <mxPoint x="421" y="592" as="targetPoint" />

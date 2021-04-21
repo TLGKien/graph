@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T18:19:26.788Z" agent="5.0 (X11)" version="14.6.5" etag="EgpSlY2ZMrOLum6SDUNB" type="github"><diagram id="HRCuB91BgMO6bVFM-XJB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-21T18:31:39.460Z" agent="5.0 (X11)" etag="2YLrwBK2W8j6_oRnOPC-" version="14.6.5" type="github">
+  <diagram id="HRCuB91BgMO6bVFM-XJB" name="Page-1">
+    <mxGraphModel dx="1369" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-1" value="Mỏ form danh sách lớp học" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="138" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-3" value="Mở forrm lịch thi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="138" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-4" value="Mở forrm đánh giá quá trình học tập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="138" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-5" value="Mở forrm đánh giá thành tích cuối kì" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="598" y="140" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-6" value="Mở forrm nhập điểm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="142" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-7" value="&amp;nbsp;Mở forrm nhập điểm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="862" y="140" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-8" value="Kiểm soát dử liệu nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="246" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-9" value="Lưu thông tin lớp học" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="370" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-10" value="Tìm kiếm thông tin lợp học cần sửa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="501" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-11" value="Sửa thông tin lớp học" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="603" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-12" value="Lưu thông tin lớp học" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="705" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-13" value="In danh sách lớp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="795" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-15" value="Lưu thông tin lịch thi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="376" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-16" value="Tìm kiếm thông tin lịch thi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="504" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-17" value="Gưi thông tin lịch thi tới học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="606" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-18" value="Kiểm soát dử liệu nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="248" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-19" value="Kiểm soát dử liệu nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472" y="248" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-20" value="Kiểm soát dử liệu nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="251" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-21" value="Kiểm soát dử liệu nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="251" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-22" value="Kiểm soát dử liệu nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="865" y="246" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-23" value="Tìm kiếm thông tin học viên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="504" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-24" value="Lưu thông tin rèn luyện của học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="380" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-25" value="Gửi thông báo cho học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="608" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-27" value="Lưu thông tin thành tích cuối kì của học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="376" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-28" value="Tìm kiếm thông tin đánh giá của học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="495" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-29" value="Gửi thông báo cho học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="607" y="608" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-30" value="Lưu thông tin điểm số học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="376" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-31" value="Tìm kiếm thông tin điểm của học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="482" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-32" value="Thông báo điểm cho học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="752" y="608" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-33" value="Tìm kiếm thông tin điểm học sinh cần sửa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="872" y="370" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-34" value="sửa thông tin điểm của học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="876" y="495" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-35" value="Lưu thông tin điểm đã sửa của học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="595" width="87" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

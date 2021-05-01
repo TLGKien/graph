@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T12:51:01.051Z" agent="5.0 (X11)" etag="iv8YJ5vFk3fH0pI1P_xu" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-01T12:52:35.006Z" agent="5.0 (X11)" etag="-HyxZKnNQ9wzYzi4VPs5" version="14.6.9" type="github">
   <diagram id="lnP5_x3WHc8F7bBJ7GBY" name="Page-1">
     <mxGraphModel dx="968" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -277,7 +277,14 @@
         <mxCell id="JC4yTgZBuulJajV7WOS_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.725;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ej8n5WV3FJ-Urs8y3LaV-36" target="ej8n5WV3FJ-Urs8y3LaV-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ej8n5WV3FJ-Urs8y3LaV-36" value="Danh sách lớp" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;rounded=0;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
+        <mxCell id="JC4yTgZBuulJajV7WOS_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ej8n5WV3FJ-Urs8y3LaV-36" target="ej8n5WV3FJ-Urs8y3LaV-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="417" y="439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ej8n5WV3FJ-Urs8y3LaV-36" value="Danh sách học sinh" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;rounded=0;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="394" y="385" width="91" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ej8n5WV3FJ-Urs8y3LaV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ej8n5WV3FJ-Urs8y3LaV-43" target="ej8n5WV3FJ-Urs8y3LaV-29" edge="1">

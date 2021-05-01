@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T13:42:34.423Z" agent="5.0 (X11)" etag="In0M0FI2KLU7ePNk_0RW" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-01T13:44:04.622Z" agent="5.0 (X11)" etag="p7i55zwx9t4HHlZu0GV3" version="14.6.9" type="github">
   <diagram id="lnP5_x3WHc8F7bBJ7GBY" name="Page-1">
     <mxGraphModel dx="1139" dy="634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ej8n5WV3FJ-Urs8y3LaV-49" value="Kết quả thi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ej8n5WV3FJ-Urs8y3LaV-48" vertex="1" connectable="0">
+        <mxCell id="ej8n5WV3FJ-Urs8y3LaV-49" value="Kết quả thi (MB4)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ej8n5WV3FJ-Urs8y3LaV-48" vertex="1" connectable="0">
           <mxGeometry x="-0.3992" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -304,7 +304,7 @@
           <mxGeometry x="474" y="404" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ej8n5WV3FJ-Urs8y3LaV-32" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeOpacity=100;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;sketch=0;overflow=visible;fillOpacity=40;" parent="1" vertex="1">
-          <mxGeometry x="208" y="127" width="508" height="475" as="geometry" />
+          <mxGeometry x="204" y="88" width="508" height="475" as="geometry" />
         </mxCell>
         <mxCell id="ej8n5WV3FJ-Urs8y3LaV-33" value="BAN GIÁM HIỆU" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="368" y="686" width="120" height="60" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T13:44:04.622Z" agent="5.0 (X11)" etag="p7i55zwx9t4HHlZu0GV3" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-01T13:46:57.121Z" agent="5.0 (X11)" etag="8EWSfgreArunExe53oJ5" version="14.6.9" type="github">
   <diagram id="lnP5_x3WHc8F7bBJ7GBY" name="Page-1">
     <mxGraphModel dx="1139" dy="634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
             <mxPoint x="26" y="671" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ej8n5WV3FJ-Urs8y3LaV-19" value="Danh sách lớp học được phê duyệt(MB1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ej8n5WV3FJ-Urs8y3LaV-18" vertex="1" connectable="0">
+        <mxCell id="ej8n5WV3FJ-Urs8y3LaV-19" value="Danh sách lớp học được phê duyệt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ej8n5WV3FJ-Urs8y3LaV-18" vertex="1" connectable="0">
           <mxGeometry x="-0.0755" y="2" relative="1" as="geometry">
             <mxPoint x="-51" y="1" as="offset" />
           </mxGeometry>
@@ -141,7 +141,7 @@
             <mxPoint x="131" y="36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ej8n5WV3FJ-Urs8y3LaV-21" value="Lịch thi được xác nhận (MB3)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ej8n5WV3FJ-Urs8y3LaV-20" vertex="1" connectable="0">
+        <mxCell id="ej8n5WV3FJ-Urs8y3LaV-21" value="Lịch thi được xác nhận" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ej8n5WV3FJ-Urs8y3LaV-20" vertex="1" connectable="0">
           <mxGeometry x="-0.0792" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

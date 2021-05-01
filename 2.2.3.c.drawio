@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T13:22:08.080Z" agent="5.0 (X11)" etag="FK5V8b4K8B7fnXJPtYLs" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-01T13:46:41.835Z" agent="5.0 (X11)" etag="guaT7HxIhlMJ21smhJyn" version="14.6.9" type="github">
   <diagram id="9bc5HynWW97KNLTAC6Zj" name="Page-1">
     <mxGraphModel dx="968" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
             <mxPoint x="721" y="48" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DaIMqEM_JUgA9F1qBchQ-4" value="Lịch thi học kì" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DaIMqEM_JUgA9F1qBchQ-3" vertex="1" connectable="0">
+        <mxCell id="DaIMqEM_JUgA9F1qBchQ-4" value="Lịch thi học kì (MB3)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DaIMqEM_JUgA9F1qBchQ-3" vertex="1" connectable="0">
           <mxGeometry x="-0.1368" y="-2" relative="1" as="geometry">
             <mxPoint x="74.4" y="-23.72" as="offset" />
           </mxGeometry>
@@ -40,7 +40,7 @@
             <mxPoint x="505" y="477" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DaIMqEM_JUgA9F1qBchQ-12" value="Danh sách lớp học" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" parent="DaIMqEM_JUgA9F1qBchQ-11" vertex="1" connectable="0">
+        <mxCell id="DaIMqEM_JUgA9F1qBchQ-12" value="Danh sách lớp học(MB1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" parent="DaIMqEM_JUgA9F1qBchQ-11" vertex="1" connectable="0">
           <mxGeometry x="-0.0667" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -54,7 +54,7 @@
             <mxPoint x="407" y="716" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DaIMqEM_JUgA9F1qBchQ-14" value="Lịch thi dự kiến" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" parent="DaIMqEM_JUgA9F1qBchQ-13" vertex="1" connectable="0">
+        <mxCell id="DaIMqEM_JUgA9F1qBchQ-14" value="Lịch thi dự kiến (MB3)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" parent="DaIMqEM_JUgA9F1qBchQ-13" vertex="1" connectable="0">
           <mxGeometry x="0.1113" y="-2" relative="1" as="geometry">
             <mxPoint x="5" y="-99" as="offset" />
           </mxGeometry>
@@ -81,7 +81,7 @@
             <mxPoint x="131" y="36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DaIMqEM_JUgA9F1qBchQ-20" value="Lịch thi được xác nhận" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" parent="DaIMqEM_JUgA9F1qBchQ-19" vertex="1" connectable="0">
+        <mxCell id="DaIMqEM_JUgA9F1qBchQ-20" value="Lịch thi được xác nhận)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" parent="DaIMqEM_JUgA9F1qBchQ-19" vertex="1" connectable="0">
           <mxGeometry x="-0.0792" relative="1" as="geometry">
             <mxPoint x="-1.01" y="-104" as="offset" />
           </mxGeometry>
@@ -167,7 +167,7 @@
           <mxGeometry x="230" y="398" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DaIMqEM_JUgA9F1qBchQ-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;fillOpacity=30;" parent="1" vertex="1">
-          <mxGeometry x="194" y="284" width="558" height="250" as="geometry" />
+          <mxGeometry x="157" y="286" width="558" height="250" as="geometry" />
         </mxCell>
         <mxCell id="duTypEZ2oNPXUYQSm39F-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.8;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lcXxIy1TSJ2TYwvzFeSi-3" target="DaIMqEM_JUgA9F1qBchQ-48">
           <mxGeometry relative="1" as="geometry">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T13:43:22.394Z" agent="5.0 (X11)" etag="DN_4bmra1NgRpcIbf0kE" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-01T13:44:01.254Z" agent="5.0 (X11)" etag="4zpGLSrwKAcwH1ryQA7e" version="14.6.9" type="github">
   <diagram id="18X07u3Qb9bKqw4Xk2Qd" name="Page-1">
     <mxGraphModel dx="968" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
             <mxPoint x="653.04" y="290.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z-oRWFss3O_vHNhXuEPV-71" value="Kết quả thi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="z-oRWFss3O_vHNhXuEPV-70" vertex="1" connectable="0">
+        <mxCell id="z-oRWFss3O_vHNhXuEPV-71" value="Kết quả thi (MB4)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="z-oRWFss3O_vHNhXuEPV-70" vertex="1" connectable="0">
           <mxGeometry x="-0.3992" relative="1" as="geometry">
             <mxPoint x="57" y="-1" as="offset" />
           </mxGeometry>
@@ -152,7 +152,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z-oRWFss3O_vHNhXuEPV-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillOpacity=30;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="252" y="177" width="373" height="355" as="geometry" />
+          <mxGeometry x="246.5" y="160.5" width="373" height="355" as="geometry" />
         </mxCell>
         <mxCell id="7jTHOD_QbhDUhOaxIyPp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.05;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7jTHOD_QbhDUhOaxIyPp-1" target="z-oRWFss3O_vHNhXuEPV-40">
           <mxGeometry relative="1" as="geometry" />

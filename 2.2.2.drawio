@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T12:37:29.362Z" agent="5.0 (X11)" etag="z1OzkpC5cFkMLA1bbY5X" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-01T12:38:37.982Z" agent="5.0 (X11)" etag="ROoIj86HZ8H6XqRD17E0" version="14.6.9" type="github">
   <diagram id="lnP5_x3WHc8F7bBJ7GBY" name="Page-1">
-    <mxGraphModel dx="1818" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,7 +270,7 @@
           <mxGeometry x="474" y="404" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ej8n5WV3FJ-Urs8y3LaV-32" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeOpacity=100;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;sketch=0;overflow=visible;fillOpacity=40;" parent="1" vertex="1">
-          <mxGeometry x="-292" y="529" width="371" height="475" as="geometry" />
+          <mxGeometry x="202" y="136" width="508" height="475" as="geometry" />
         </mxCell>
         <mxCell id="ej8n5WV3FJ-Urs8y3LaV-33" value="BAN GIÁM HIỆU" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="368" y="686" width="120" height="60" as="geometry" />

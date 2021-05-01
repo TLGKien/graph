@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T13:44:01.254Z" agent="5.0 (X11)" etag="4zpGLSrwKAcwH1ryQA7e" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-01T13:51:40.528Z" agent="5.0 (X11)" etag="88xvz_76E2OtTonNy3Cv" version="14.6.9" type="github">
   <diagram id="18X07u3Qb9bKqw4Xk2Qd" name="Page-1">
     <mxGraphModel dx="968" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -54,23 +54,16 @@
             <mxPoint x="24" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z-oRWFss3O_vHNhXuEPV-65" value="HỌC SINH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="636" y="308" width="120" height="60" as="geometry" />
+        <mxCell id="7jTHOD_QbhDUhOaxIyPp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.6;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z-oRWFss3O_vHNhXuEPV-65" target="z-oRWFss3O_vHNhXuEPV-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z-oRWFss3O_vHNhXuEPV-66" value="" style="endArrow=classic;startArrow=classic;html=1;align=right;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.633;exitY=0.025;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="z-oRWFss3O_vHNhXuEPV-29" target="z-oRWFss3O_vHNhXuEPV-65" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="732" y="600" as="sourcePoint" />
-            <mxPoint x="699" y="292" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="449" y="203" />
-              <mxPoint x="696" y="203" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z-oRWFss3O_vHNhXuEPV-67" value="Tham gia học tập" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="z-oRWFss3O_vHNhXuEPV-66" vertex="1" connectable="0">
-          <mxGeometry x="-0.1375" y="-1" relative="1" as="geometry">
+        <mxCell id="7jTHOD_QbhDUhOaxIyPp-11" value="Tham gia học tập" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7jTHOD_QbhDUhOaxIyPp-10">
+          <mxGeometry x="0.0192" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z-oRWFss3O_vHNhXuEPV-65" value="HỌC SINH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="636" y="308" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-oRWFss3O_vHNhXuEPV-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="z-oRWFss3O_vHNhXuEPV-81" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -152,7 +145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z-oRWFss3O_vHNhXuEPV-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillOpacity=30;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="246.5" y="160.5" width="373" height="355" as="geometry" />
+          <mxGeometry x="252" y="168" width="373" height="355" as="geometry" />
         </mxCell>
         <mxCell id="7jTHOD_QbhDUhOaxIyPp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.05;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7jTHOD_QbhDUhOaxIyPp-1" target="z-oRWFss3O_vHNhXuEPV-40">
           <mxGeometry relative="1" as="geometry" />

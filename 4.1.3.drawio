@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-02T06:01:55.653Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="FTI_IvORKbC4ROFO8kU5" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-02T06:04:28.303Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="rS8SpLp37K5D0EXpmx4b" version="14.6.6" type="github">
   <diagram id="HRCuB91BgMO6bVFM-XJB" name="Page-1">
-    <mxGraphModel dx="2538" dy="778" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2780" dy="915" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -356,6 +356,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LD-oFK9vkFttL465IhcC-42" value="&lt;div&gt;idHocSinh,&lt;br&gt;&lt;/div&gt;&lt;div&gt;Diem, MonThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;SoLanThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;GiaoVienChamThi&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DQdRa_5wAz6dzVsRlKzh-107">
+          <mxGeometry x="0.4028" relative="1" as="geometry">
+            <mxPoint x="-24" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DQdRa_5wAz6dzVsRlKzh-30" value="Lưu thông tin điểm số học sinh" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="907.94" y="360" width="87" height="60" as="geometry" />
         </mxCell>
@@ -455,14 +460,15 @@
             <mxPoint x="706" y="1215.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DQdRa_5wAz6dzVsRlKzh-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="DQdRa_5wAz6dzVsRlKzh-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-113" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idPhieuDanhGia,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;NamHoc, HocKi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;giaoviendanhgia,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;HocSinh, NangLuc,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;PhamChat,&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="DQdRa_5wAz6dzVsRlKzh-28" edge="1">
+          <mxGeometry x="-0.0534" relative="1" as="geometry">
             <mxPoint x="700" y="1175" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="700" y="860" />
               <mxPoint x="814" y="860" />
               <mxPoint x="814" y="493" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DQdRa_5wAz6dzVsRlKzh-78" value="KQ_DANHGIA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -512,6 +518,11 @@
               <mxPoint x="874" y="1050" />
               <mxPoint x="874" y="525" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD-oFK9vkFttL465IhcC-43" value="&lt;div&gt;idHocSinh,&lt;br&gt;&lt;/div&gt;&lt;div&gt;Diem, MonThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;SoLanThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;GiaoVienChamThi&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DQdRa_5wAz6dzVsRlKzh-118">
+          <mxGeometry x="-0.0544" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DQdRa_5wAz6dzVsRlKzh-83" value="DIEM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -568,6 +579,23 @@
             <mxPoint x="288" y="1232.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LD-oFK9vkFttL465IhcC-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LD-oFK9vkFttL465IhcC-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="142" y="654" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="215" y="1283" />
+              <mxPoint x="-35" y="1283" />
+              <mxPoint x="-35" y="797" />
+              <mxPoint x="102" y="797" />
+              <mxPoint x="102" y="654" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD-oFK9vkFttL465IhcC-45" value="idLopHoc&lt;br&gt;TenLopHoc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="LD-oFK9vkFttL465IhcC-44">
+          <mxGeometry x="0.1661" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LD-oFK9vkFttL465IhcC-6" value="LOPHOC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="191" y="1205.25" width="97" height="20" as="geometry" />
         </mxCell>
@@ -581,6 +609,23 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="321" y="1228.5" as="sourcePoint" />
             <mxPoint x="418" y="1228.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD-oFK9vkFttL465IhcC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LD-oFK9vkFttL465IhcC-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="142" y="663" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="345" y="1269" />
+              <mxPoint x="-14" y="1269" />
+              <mxPoint x="-14" y="824" />
+              <mxPoint x="121" y="824" />
+              <mxPoint x="121" y="663" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD-oFK9vkFttL465IhcC-47" value="idGiaoVien&lt;br&gt;TenGiaoVIen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="LD-oFK9vkFttL465IhcC-46">
+          <mxGeometry x="0.0576" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LD-oFK9vkFttL465IhcC-9" value="GIAOVIEN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

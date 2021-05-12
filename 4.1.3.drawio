@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-02T06:18:02.342Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="aSyULmJqSJxWDujHRm8j" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T15:25:08.218Z" agent="5.0 (X11)" etag="yxG1-KhMIpQ66mBqUQm7" version="14.6.10" type="github">
   <diagram id="HRCuB91BgMO6bVFM-XJB" name="Page-1">
-    <mxGraphModel dx="3125" dy="1000" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2756" dy="887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
             <mxPoint y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-10" value="idGiaoVIen, tengiaovien&amp;nbsp;&lt;br&gt;idLopHoc, tenlophoc&lt;br&gt;idMonHoc, tenmon hoc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DQdRa_5wAz6dzVsRlKzh-45">
+        <mxCell id="LD-oFK9vkFttL465IhcC-10" value="idGiaoVIen, tengiaovien&amp;nbsp;&lt;br&gt;idLopHoc, tenlophoc&lt;br&gt;idMonHoc, tenmon hoc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DQdRa_5wAz6dzVsRlKzh-45" vertex="1" connectable="0">
           <mxGeometry x="0.2297" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -71,7 +71,7 @@
         <mxCell id="DQdRa_5wAz6dzVsRlKzh-91" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;idMonHoc&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;TenMonHoc&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DQdRa_5wAz6dzVsRlKzh-9" target="LD-oFK9vkFttL465IhcC-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DQdRa_5wAz6dzVsRlKzh-9">
+        <mxCell id="LD-oFK9vkFttL465IhcC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DQdRa_5wAz6dzVsRlKzh-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="1184" as="targetPoint" />
             <Array as="points">
@@ -80,12 +80,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-17" value="idLopHoc&lt;br&gt;TenLopHoc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="LD-oFK9vkFttL465IhcC-16">
+        <mxCell id="LD-oFK9vkFttL465IhcC-17" value="idLopHoc&lt;br&gt;TenLopHoc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="LD-oFK9vkFttL465IhcC-16" vertex="1" connectable="0">
           <mxGeometry x="0.176" y="-2" relative="1" as="geometry">
             <mxPoint x="1" y="-83" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DQdRa_5wAz6dzVsRlKzh-9">
+        <mxCell id="LD-oFK9vkFttL465IhcC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DQdRa_5wAz6dzVsRlKzh-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="301" y="1179" as="targetPoint" />
             <Array as="points">
@@ -95,7 +95,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-19" value="idGiaoVien&lt;br&gt;TenGiaoVIen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="LD-oFK9vkFttL465IhcC-18">
+        <mxCell id="LD-oFK9vkFttL465IhcC-19" value="idGiaoVien&lt;br&gt;TenGiaoVIen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="LD-oFK9vkFttL465IhcC-18" vertex="1" connectable="0">
           <mxGeometry x="0.1156" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -123,7 +123,7 @@
         <mxCell id="DQdRa_5wAz6dzVsRlKzh-63" value="&lt;div&gt;idHocSinh, HoTen,&lt;/div&gt;&lt;div&gt; NgaySinh, GioiTInh, &lt;br&gt;&lt;/div&gt;&lt;div&gt;KhuyetTat,TPGiaDinh, &lt;br&gt;&lt;/div&gt;&lt;div&gt;DanToc,LopHoc&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DQdRa_5wAz6dzVsRlKzh-12" target="DQdRa_5wAz6dzVsRlKzh-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DQdRa_5wAz6dzVsRlKzh-12">
+        <mxCell id="LD-oFK9vkFttL465IhcC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DQdRa_5wAz6dzVsRlKzh-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-219" y="1224" as="targetPoint" />
             <Array as="points">
@@ -134,12 +134,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-21" value="&lt;div&gt;idHocSinh, HoTen,&lt;/div&gt;&lt;div&gt;NgaySinh, GioiTInh,&lt;br&gt;&lt;/div&gt;&lt;div&gt;KhuyetTat,TPGiaDinh,&lt;br&gt;&lt;/div&gt;&lt;div&gt;DanToc,LopHoc&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="LD-oFK9vkFttL465IhcC-20">
+        <mxCell id="LD-oFK9vkFttL465IhcC-21" value="&lt;div&gt;idHocSinh, HoTen,&lt;/div&gt;&lt;div&gt;NgaySinh, GioiTInh,&lt;br&gt;&lt;/div&gt;&lt;div&gt;KhuyetTat,TPGiaDinh,&lt;br&gt;&lt;/div&gt;&lt;div&gt;DanToc,LopHoc&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="LD-oFK9vkFttL465IhcC-20" vertex="1" connectable="0">
           <mxGeometry x="-0.4502" y="1" relative="1" as="geometry">
             <mxPoint x="-4" y="41" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DQdRa_5wAz6dzVsRlKzh-12">
+        <mxCell id="LD-oFK9vkFttL465IhcC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DQdRa_5wAz6dzVsRlKzh-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="152" y="1186" as="targetPoint" />
             <Array as="points">
@@ -148,12 +148,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-23" value="idLopHoc&lt;br&gt;TenLopHoc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="LD-oFK9vkFttL465IhcC-22">
+        <mxCell id="LD-oFK9vkFttL465IhcC-23" value="idLopHoc&lt;br&gt;TenLopHoc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="LD-oFK9vkFttL465IhcC-22" vertex="1" connectable="0">
           <mxGeometry x="0.1876" y="1" relative="1" as="geometry">
             <mxPoint x="-3" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DQdRa_5wAz6dzVsRlKzh-12">
+        <mxCell id="LD-oFK9vkFttL465IhcC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DQdRa_5wAz6dzVsRlKzh-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="273" y="1179" as="targetPoint" />
             <Array as="points">
@@ -162,7 +162,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-25" value="idGiaoVien&lt;br&gt;TenGiaoVIen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="LD-oFK9vkFttL465IhcC-24">
+        <mxCell id="LD-oFK9vkFttL465IhcC-25" value="idGiaoVien&lt;br&gt;TenGiaoVIen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="LD-oFK9vkFttL465IhcC-24" vertex="1" connectable="0">
           <mxGeometry x="0.4004" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -341,7 +341,7 @@
         <mxCell id="DQdRa_5wAz6dzVsRlKzh-28" value="Tìm kiếm thông tin đánh giá của học sinh" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="877.94" y="468.33" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-37" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idPhieuDanhGia,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;NamHoc, HocKi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;giaoviendanhgia,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;HocSinh, NangLuc,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;PhamChat,&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQdRa_5wAz6dzVsRlKzh-29" target="LD-oFK9vkFttL465IhcC-36">
+        <mxCell id="LD-oFK9vkFttL465IhcC-37" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idPhieuDanhGia,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;NamHoc, HocKi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;giaoviendanhgia,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;HocSinh, NangLuc,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;PhamChat,&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DQdRa_5wAz6dzVsRlKzh-29" target="LD-oFK9vkFttL465IhcC-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DQdRa_5wAz6dzVsRlKzh-29" value="In bản đánh giá thành tích cuối kì" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -360,7 +360,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-42" value="&lt;div&gt;idHocSinh,&lt;br&gt;&lt;/div&gt;&lt;div&gt;Diem, MonThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;SoLanThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;GiaoVienChamThi&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DQdRa_5wAz6dzVsRlKzh-107">
+        <mxCell id="LD-oFK9vkFttL465IhcC-42" value="&lt;div&gt;idHocSinh,&lt;br&gt;&lt;/div&gt;&lt;div&gt;Diem, MonThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;SoLanThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;GiaoVienChamThi&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DQdRa_5wAz6dzVsRlKzh-107" vertex="1" connectable="0">
           <mxGeometry x="0.4028" relative="1" as="geometry">
             <mxPoint x="6" y="49" as="offset" />
           </mxGeometry>
@@ -374,7 +374,7 @@
         <mxCell id="DQdRa_5wAz6dzVsRlKzh-31" value="Tìm kiếm thông tin điểm của học sinh" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1047.94" y="498" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-39" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idHocSinh,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;Diem, MonThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;SoLanThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GiaoVienChamThi&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DQdRa_5wAz6dzVsRlKzh-32" target="LD-oFK9vkFttL465IhcC-38">
+        <mxCell id="LD-oFK9vkFttL465IhcC-39" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idHocSinh,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;Diem, MonThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;SoLanThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GiaoVienChamThi&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DQdRa_5wAz6dzVsRlKzh-32" target="LD-oFK9vkFttL465IhcC-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1091" y="785" />
@@ -469,7 +469,7 @@
             <mxPoint x="868" y="1220.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DQdRa_5wAz6dzVsRlKzh-113" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idPhieuDanhGia,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;NamHoc, HocKi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;giaoviendanhgia,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;HocSinh, NangLuc,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;PhamChat,&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" target="DQdRa_5wAz6dzVsRlKzh-28" edge="1" source="DQdRa_5wAz6dzVsRlKzh-80">
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-113" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idPhieuDanhGia,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;NamHoc, HocKi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;giaoviendanhgia,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;HocSinh, NangLuc,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;PhamChat,&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DQdRa_5wAz6dzVsRlKzh-80" target="DQdRa_5wAz6dzVsRlKzh-28" edge="1">
           <mxGeometry x="-0.0534" relative="1" as="geometry">
             <mxPoint x="862" y="1180.33" as="sourcePoint" />
             <Array as="points">
@@ -488,7 +488,7 @@
             <mxPoint x="868" y="1253.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DQdRa_5wAz6dzVsRlKzh-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" target="DQdRa_5wAz6dzVsRlKzh-23" edge="1" source="DQdRa_5wAz6dzVsRlKzh-80">
+        <mxCell id="DQdRa_5wAz6dzVsRlKzh-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DQdRa_5wAz6dzVsRlKzh-80" target="DQdRa_5wAz6dzVsRlKzh-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="791" y="1183.33" as="sourcePoint" />
             <Array as="points">
@@ -499,7 +499,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-31" value="&lt;div&gt;idPhieuDanhGia,&lt;br&gt;&lt;/div&gt;&lt;div&gt;NamHoc, HocKi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;giaoviendanhgia,&lt;br&gt;&lt;/div&gt;&lt;div&gt;HocSinh, NangLuc,&lt;br&gt;&lt;/div&gt;&lt;div&gt;PhamChat,&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DQdRa_5wAz6dzVsRlKzh-112">
+        <mxCell id="LD-oFK9vkFttL465IhcC-31" value="&lt;div&gt;idPhieuDanhGia,&lt;br&gt;&lt;/div&gt;&lt;div&gt;NamHoc, HocKi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;giaoviendanhgia,&lt;br&gt;&lt;/div&gt;&lt;div&gt;HocSinh, NangLuc,&lt;br&gt;&lt;/div&gt;&lt;div&gt;PhamChat,&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DQdRa_5wAz6dzVsRlKzh-112" vertex="1" connectable="0">
           <mxGeometry x="-0.046" y="-4" relative="1" as="geometry">
             <mxPoint x="9" y="8" as="offset" />
           </mxGeometry>
@@ -528,7 +528,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-43" value="&lt;div&gt;idHocSinh,&lt;br&gt;&lt;/div&gt;&lt;div&gt;Diem, MonThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;SoLanThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;GiaoVienChamThi&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DQdRa_5wAz6dzVsRlKzh-118">
+        <mxCell id="LD-oFK9vkFttL465IhcC-43" value="&lt;div&gt;idHocSinh,&lt;br&gt;&lt;/div&gt;&lt;div&gt;Diem, MonThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;SoLanThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;GiaoVienChamThi&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DQdRa_5wAz6dzVsRlKzh-118" vertex="1" connectable="0">
           <mxGeometry x="-0.0544" y="-1" relative="1" as="geometry">
             <mxPoint x="-4" y="-4" as="offset" />
           </mxGeometry>
@@ -560,34 +560,34 @@
         <mxCell id="DQdRa_5wAz6dzVsRlKzh-85" value="CT_DIEM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1122" y="1235.5" width="97" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-1" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-1" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-85.99999999999994" y="1199" as="sourcePoint" />
             <mxPoint x="11.000000000000057" y="1199" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-2" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-2" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-85.99999999999994" y="1233.5" as="sourcePoint" />
             <mxPoint x="11.000000000000057" y="1233.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-3" value="MONHOC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-3" value="MONHOC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-86" y="1206" width="97" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-4" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-4" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="1185.25" as="sourcePoint" />
             <mxPoint x="197" y="1185.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-5" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-5" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="1219.75" as="sourcePoint" />
             <mxPoint x="197" y="1219.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LD-oFK9vkFttL465IhcC-6">
+        <mxCell id="LD-oFK9vkFttL465IhcC-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LD-oFK9vkFttL465IhcC-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="51" y="641" as="targetPoint" />
             <Array as="points">
@@ -597,27 +597,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-45" value="idLopHoc&lt;br&gt;TenLopHoc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="LD-oFK9vkFttL465IhcC-44">
+        <mxCell id="LD-oFK9vkFttL465IhcC-45" value="idLopHoc&lt;br&gt;TenLopHoc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="LD-oFK9vkFttL465IhcC-44" vertex="1" connectable="0">
           <mxGeometry x="0.1661" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-6" value="LOPHOC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-6" value="LOPHOC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="1192.25" width="97" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-7" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-7" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="214" y="1184.5" as="sourcePoint" />
             <mxPoint x="311" y="1184.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-8" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-8" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="214" y="1219" as="sourcePoint" />
             <mxPoint x="311" y="1219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="51" y="650" as="targetPoint" />
             <mxPoint x="254.25" y="1208" as="sourcePoint" />
@@ -628,15 +628,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-47" value="idGiaoVien&lt;br&gt;TenGiaoVIen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="LD-oFK9vkFttL465IhcC-46">
+        <mxCell id="LD-oFK9vkFttL465IhcC-47" value="idGiaoVien&lt;br&gt;TenGiaoVIen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="LD-oFK9vkFttL465IhcC-46" vertex="1" connectable="0">
           <mxGeometry x="0.0576" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-9" value="GIAOVIEN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-9" value="GIAOVIEN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="214" y="1191.5" width="97" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LD-oFK9vkFttL465IhcC-12">
+        <mxCell id="LD-oFK9vkFttL465IhcC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LD-oFK9vkFttL465IhcC-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-45" y="1199" as="targetPoint" />
             <Array as="points">
@@ -645,33 +645,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-15" value="idMonHoc&lt;br&gt;TenMonHoc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LD-oFK9vkFttL465IhcC-14">
+        <mxCell id="LD-oFK9vkFttL465IhcC-15" value="idMonHoc&lt;br&gt;TenMonHoc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LD-oFK9vkFttL465IhcC-14" vertex="1" connectable="0">
           <mxGeometry x="-0.338" y="2" relative="1" as="geometry">
             <mxPoint x="-47" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LD-oFK9vkFttL465IhcC-12" target="DQdRa_5wAz6dzVsRlKzh-10">
+        <mxCell id="LD-oFK9vkFttL465IhcC-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LD-oFK9vkFttL465IhcC-12" target="DQdRa_5wAz6dzVsRlKzh-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-12" value="Lưu thông tin môn học" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-12" value="Lưu thông tin môn học" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="54.94" y="468" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-29" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idLichThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;Dia diem thi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;ThoiGian, MonHoc,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GiaoVienCoiThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GHiChu&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LD-oFK9vkFttL465IhcC-26" target="LD-oFK9vkFttL465IhcC-32">
+        <mxCell id="LD-oFK9vkFttL465IhcC-29" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idLichThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;Dia diem thi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;ThoiGian, MonHoc,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GiaoVienCoiThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GHiChu&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LD-oFK9vkFttL465IhcC-26" target="LD-oFK9vkFttL465IhcC-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-26" value="sửa thông tin lịch thi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-26" value="sửa thông tin lịch thi" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="434" y="570" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-30" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idLichThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;Dia diem thi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;ThoiGian, MonHoc,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GiaoVienCoiThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GHiChu&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="LD-oFK9vkFttL465IhcC-28" target="DQdRa_5wAz6dzVsRlKzh-17">
+        <mxCell id="LD-oFK9vkFttL465IhcC-30" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idLichThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;Dia diem thi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;ThoiGian, MonHoc,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GiaoVienCoiThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GHiChu&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="LD-oFK9vkFttL465IhcC-28" target="DQdRa_5wAz6dzVsRlKzh-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-28" value="In danh sách lịch thi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-28" value="In danh sách lịch thi" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="434" y="880" width="87" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-33" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idLichThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;Dia diem thi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;ThoiGian, MonHoc,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GiaoVienCoiThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GHiChu&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="LD-oFK9vkFttL465IhcC-32" target="LD-oFK9vkFttL465IhcC-28">
+        <mxCell id="LD-oFK9vkFttL465IhcC-33" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idLichThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;Dia diem thi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;ThoiGian, MonHoc,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GiaoVienCoiThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GHiChu&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="LD-oFK9vkFttL465IhcC-32" target="LD-oFK9vkFttL465IhcC-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LD-oFK9vkFttL465IhcC-32">
+        <mxCell id="LD-oFK9vkFttL465IhcC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LD-oFK9vkFttL465IhcC-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="554" y="1180" as="targetPoint" />
             <Array as="points">
@@ -679,25 +679,117 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-35" value="&lt;div&gt;idLichThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dia diem thi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;ThoiGian, MonHoc,&lt;br&gt;&lt;/div&gt;&lt;div&gt;GiaoVienCoiThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;GHiChu&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="LD-oFK9vkFttL465IhcC-34">
+        <mxCell id="LD-oFK9vkFttL465IhcC-35" value="&lt;div&gt;idLichThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dia diem thi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;ThoiGian, MonHoc,&lt;br&gt;&lt;/div&gt;&lt;div&gt;GiaoVienCoiThi,&lt;br&gt;&lt;/div&gt;&lt;div&gt;GHiChu&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="LD-oFK9vkFttL465IhcC-34" vertex="1" connectable="0">
           <mxGeometry x="-0.4159" y="1" relative="1" as="geometry">
             <mxPoint x="5" y="54" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-32" value="lưu thông tin lịch thi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-32" value="lưu thông tin lịch thi" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="434" y="729" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-36" value="Gửi thông báo cho học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-36" value="Gửi thông báo cho học sinh" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="877.94" y="761" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-38" value="Thông báo điểm cho học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-38" value="Thông báo điểm cho học sinh" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1047.94" y="836" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-41" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idHocSinh,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;Diem, MonThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;SoLanThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GiaoVienChamThi&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LD-oFK9vkFttL465IhcC-40" target="DQdRa_5wAz6dzVsRlKzh-35">
+        <mxCell id="LD-oFK9vkFttL465IhcC-41" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;idHocSinh,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;Diem, MonThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;SoLanThi,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;GiaoVienChamThi&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LD-oFK9vkFttL465IhcC-40" target="DQdRa_5wAz6dzVsRlKzh-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LD-oFK9vkFttL465IhcC-40" value="sửa thông tin điểm của học sinh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LD-oFK9vkFttL465IhcC-40" value="sửa thông tin điểm của học sinh" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1274" y="574" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="obaKXMXhfh8mtdD0_Jyh-1" target="obaKXMXhfh8mtdD0_Jyh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-1" value="&amp;nbsp;Mở forrm thêm người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1556" y="60" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="obaKXMXhfh8mtdD0_Jyh-2" target="obaKXMXhfh8mtdD0_Jyh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-2" value="&amp;nbsp;Mở forrm sửa thông tin người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="57" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="obaKXMXhfh8mtdD0_Jyh-3" target="obaKXMXhfh8mtdD0_Jyh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-3" value="&amp;nbsp;Mở forrm trạng thái tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1893" y="60" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="obaKXMXhfh8mtdD0_Jyh-4" target="obaKXMXhfh8mtdD0_Jyh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-14" value="&lt;div&gt;idNguoiDung, tenNguoiDung&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="obaKXMXhfh8mtdD0_Jyh-13">
+          <mxGeometry x="-0.3243" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-4" value="Kiểm soát dử liệu nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1556" y="176" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="obaKXMXhfh8mtdD0_Jyh-5" target="obaKXMXhfh8mtdD0_Jyh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-5" value="Tìm kiếm thông tin người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="176" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="obaKXMXhfh8mtdD0_Jyh-6" target="obaKXMXhfh8mtdD0_Jyh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-6" value="Tìm kiếm thông tin người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1893" y="176" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-10" value="Thêm tài khoản mới" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1556" y="384" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-11" value="Kiểm soát dử liệu nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="301" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="obaKXMXhfh8mtdD0_Jyh-12" target="obaKXMXhfh8mtdD0_Jyh-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-12" value="Kiểm soát dử liệu nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1893" y="301" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-19" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1558" y="660.5" as="sourcePoint" />
+            <mxPoint x="1655" y="660.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-20" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1558" y="695" as="sourcePoint" />
+            <mxPoint x="1655" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-21" value="NGUOIDUNG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1558" y="667.5" width="97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-22" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1558" y="728" as="sourcePoint" />
+            <mxPoint x="1655" y="728" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-23" value="NHOMNGUOIDUNG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="704" width="97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-24" value="QUYEN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1559" y="734" width="97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-25" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1557" y="758" as="sourcePoint" />
+            <mxPoint x="1654" y="758" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-26" value="Sửa thông tin người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="405" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obaKXMXhfh8mtdD0_Jyh-27" value="Lưu trạng thái tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1893" y="417.33" width="87" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

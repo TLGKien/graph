@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T09:02:49.477Z" agent="5.0 (X11)" etag="YWCY9wnTdCo1R_uA3xEY" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T09:03:05.165Z" agent="5.0 (X11)" etag="-SxD1w2_8XaQXGHDpS5e" version="14.6.12" type="github">
   <diagram id="GM21wBxc2DHTKVHeBlKp" name="Page-1">
     <mxGraphModel dx="968" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,9 +141,6 @@
         </mxCell>
         <mxCell id="rJRlgSTPhRBSyXRxf0p6-55" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="507" y="811" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rJRlgSTPhRBSyXRxf0p6-57" value="TIẾP NHẬN HỌC SINH MỚI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="351" y="35" width="164" height="18" as="geometry" />
         </mxCell>
         <mxCell id="rJRlgSTPhRBSyXRxf0p6-58" value="MB1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="608" y="433" width="28.8" height="37" as="geometry" />

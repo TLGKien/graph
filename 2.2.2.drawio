@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T02:27:41.667Z" agent="5.0 (X11)" etag="9vW3SVzsIgHVdipKXvwt" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T02:31:29.683Z" agent="5.0 (X11)" etag="Fz_SkXPFHnBVITDLWlmQ" version="14.6.12" type="github">
   <diagram id="lnP5_x3WHc8F7bBJ7GBY" name="Page-1">
     <mxGraphModel dx="1139" dy="634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -287,47 +287,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q-wMo99p0fWlmq5nX4fM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.2;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q-wMo99p0fWlmq5nX4fM-2" target="Q-wMo99p0fWlmq5nX4fM-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-wMo99p0fWlmq5nX4fM-18" value="Yêu cầu lịch thi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="Q-wMo99p0fWlmq5nX4fM-15">
-          <mxGeometry x="-0.2748" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q-wMo99p0fWlmq5nX4fM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q-wMo99p0fWlmq5nX4fM-2" target="Q-wMo99p0fWlmq5nX4fM-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-wMo99p0fWlmq5nX4fM-17" value="yêu cầu danh sách lớp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="Q-wMo99p0fWlmq5nX4fM-16">
-          <mxGeometry x="-0.3647" y="2" relative="1" as="geometry">
-            <mxPoint y="26" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q-wMo99p0fWlmq5nX4fM-2" value="&lt;div&gt;BP GIÁO VIÊN&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Theo dõi, đánh giá quá trình học tập của học sinh, điểm danh số ngày nghỉ.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cập nhật điểm của học sinh&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Đánh giá năng lực phẩm chất, kết quả học tập cho học sinh&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Tính điểm theo môn học để đánh giá cuối kì + xếp loại&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="78" width="202" height="183" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-wMo99p0fWlmq5nX4fM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.656;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.106;exitY=0.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Q-wMo99p0fWlmq5nX4fM-3" target="Q-wMo99p0fWlmq5nX4fM-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="472" y="439" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q-wMo99p0fWlmq5nX4fM-12" value="&lt;div&gt;Thông báo lịch thi (MB3)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="Q-wMo99p0fWlmq5nX4fM-11">
-          <mxGeometry x="0.2729" relative="1" as="geometry">
-            <mxPoint x="-1" y="30" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q-wMo99p0fWlmq5nX4fM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.392;exitY=-0.021;exitDx=0;exitDy=0;entryX=0.93;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="Q-wMo99p0fWlmq5nX4fM-3" target="Q-wMo99p0fWlmq5nX4fM-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="529" y="449" />
-              <mxPoint x="527" y="449" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q-wMo99p0fWlmq5nX4fM-14" value="Danh sách lớp (MB1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="Q-wMo99p0fWlmq5nX4fM-13">
-          <mxGeometry x="0.3305" y="-4" relative="1" as="geometry">
-            <mxPoint x="-6" y="19" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Q-wMo99p0fWlmq5nX4fM-3" value="&lt;div align=&quot;center&quot;&gt;BP PHÒNG ĐÀO TẠO&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Tiếp nhận danh sách học sinh mới&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Lên danh sách lớp học, phân công giáo viên phụ trách&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Lập danh sách học sinh ở lớp học&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Sắp xếp lịch thi&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="449" width="202" height="142" as="geometry" />
